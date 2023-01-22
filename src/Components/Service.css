@@ -1,0 +1,26 @@
+.service-btn {
+  border-radius: 20px;
+  background-image: linear-gradient(to right, #a517ba, #5f1782);
+  padding: 8px 25px;
+  border: none;
+  color: white;
+  text-transform: uppercase;
+}
+.text-title::before {
+  content: '';
+  display: block;
+  height: 10px;
+  width: 120px;
+  background-image: linear-gradient(to right, #a517ba, #5f1782);
+  margin: auto auto;
+  transform: translateY(53px);
+}
+.text-title .text-center::after {
+  content: '';
+  display: block;
+  height: 12px;
+  width: 50px;
+  background-image: linear-gradient(to right, #a517ba, #5f1782);
+  margin: auto auto;
+  transform: translateY(5px);
+}

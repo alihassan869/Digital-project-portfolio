@@ -1,0 +1,13 @@
+.links {
+  width: 100%;
+  min-height: 30vh;
+}
+.links .icon {
+  transition: 0.5s;
+  height: 60px;
+  width: 60px;
+  cursor: pointer;
+}
+.links .icon:hover {
+  transform: translateY(-8px);
+}

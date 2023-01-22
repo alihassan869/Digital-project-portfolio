@@ -1,0 +1,15 @@
+.Footer {
+  background-image: linear-gradient(to right, #a517ba, #5f1782);
+  width: 100%;
+  min-height: 50vh;
+  overflow: hidden;
+}
+.footer-btn {
+  color: white;
+  background-color: #5f1782;
+  border: none;
+}
+#email-footer {
+  border: none;
+  outline: none;
+}

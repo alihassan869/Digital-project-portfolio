@@ -1,0 +1,15 @@
+.Register-form {
+  min-height: 60vh;
+  border-radius: 30px;
+}
+.input {
+  border: none;
+  outline: none;
+}
+.input-box {
+  border-bottom: 1px solid black;
+}
+.input-box .icon {
+  padding: 10px;
+  color: black;
+}
